@@ -30,6 +30,7 @@
 ![Express](https://img.shields.io/badge/Express-23272e?style=flat-square&logo=express)
 ![Next.js](https://img.shields.io/badge/Next.js-23272e?style=flat-square&logo=nextdotjs)
 ![React](https://img.shields.io/badge/React-23272e?style=flat-square&logo=react)
+![Bun](https://img.shields.io/badge/Bun-23272e?style=flat-square&logo=bun)
 
 <sub>data</sub>
 
